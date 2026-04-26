@@ -1,0 +1,12 @@
+{
+  "name": "Splavo",
+  "tagline": "Splash your way through colorful chaos.",
+  "description": "Splavo is a fast-paced casual mobile game where you guide a paint droplet through increasingly tricky levels. Swipe, splash, and mix colors to solve puzzles and paint the world your way.",
+  "icon": "icon.png",
+  "genre": "Casual · Puzzle",
+  "platform": ["Android"],
+  "developer": "OKUMO",
+  "contact_email": "support@okumo.dev",
+  "google_play_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=uk",
+  "accent_color": "#5b8dff"
+}

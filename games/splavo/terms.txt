@@ -1,0 +1,52 @@
+[LAST_UPDATED: January 1, 2025]
+
+## Terms of Use
+
+These Terms of Use ("Terms") govern your access to and use of Splavo (the "Game"), developed by OKUMO ("we", "us", or "our").
+
+By downloading or playing the Game, you agree to be bound by these Terms. If you do not agree, please do not use the Game.
+
+## License
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to download and play Splavo for your personal, non-commercial use.
+
+You may not:
+
+- Copy, modify, or distribute the Game or any part of it
+- Reverse engineer, decompile, or disassemble the Game
+- Use the Game for any commercial purpose
+- Exploit bugs or glitches to gain an unfair advantage
+
+## Intellectual Property
+
+All content in Splavo — including graphics, audio, gameplay mechanics, and code — is the exclusive property of OKUMO and is protected by applicable intellectual property laws.
+
+## In-App Advertising
+
+Splavo is free to play and is supported by in-app advertising provided by Google AdMob. By using the Game, you consent to the display of advertisements.
+
+## Disclaimer of Warranties
+
+The Game is provided "as is" without warranties of any kind, either express or implied, including but not limited to fitness for a particular purpose or non-infringement.
+
+## Limitation of Liability
+
+To the maximum extent permitted by law, OKUMO shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Game.
+
+## Termination
+
+We reserve the right to suspend or terminate your access to the Game at any time, for any reason, without notice.
+
+## Changes to These Terms
+
+We may update these Terms at any time. The updated version will be indicated by a new "Last updated" date. Continued use of the Game after changes constitutes acceptance of the updated Terms.
+
+## Governing Law
+
+These Terms are governed by and construed in accordance with the laws applicable in the jurisdiction where OKUMO operates, without regard to conflict of law provisions.
+
+## Contact Us
+
+If you have any questions about these Terms, please contact us at:
+
+support@okumo.dev

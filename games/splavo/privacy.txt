@@ -1,0 +1,60 @@
+[LAST_UPDATED: January 1, 2025]
+
+## Privacy Policy
+
+This Privacy Policy explains how OKUMO ("we", "us", or "our") collects, uses, and protects information when you use Splavo (the "Game").
+
+By downloading or playing the Game, you agree to the practices described in this Privacy Policy.
+
+## Information We Collect
+
+### Information Collected Automatically
+
+When you play Splavo, we and our third-party partners may automatically collect certain information, including:
+
+- Device identifiers (e.g., Advertising ID)
+- Device type, operating system, and version
+- App version and session data
+- Gameplay data (levels completed, scores, session duration)
+- Crash reports and diagnostic data
+
+## Advertising
+
+Splavo uses Google AdMob to display ads. AdMob may collect and use your device's Advertising ID and other data to show you personalized or non-personalized advertisements.
+
+You can opt out of personalized advertising at any time through your device's settings:
+
+- Android: Settings → Google → Ads → Opt out of Ads Personalization
+
+For more information on how Google uses data, please visit: https://policies.google.com/privacy
+
+## Data We Do Not Collect
+
+We do not collect:
+
+- Your name or email address
+- Location data
+- Payment information
+- Contacts or other personal files
+
+## Data Retention
+
+We retain automatically collected data only for as long as necessary to fulfill the purposes described in this policy or as required by law.
+
+## Children's Privacy
+
+Splavo is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can delete it promptly.
+
+## Third-Party Services
+
+The Game may include links or integrations with third-party services (such as Google Play). These third parties have their own privacy policies, and we are not responsible for their practices.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date at the top of this page. Continued use of the Game after changes constitutes your acceptance of the updated policy.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+support@okumo.dev

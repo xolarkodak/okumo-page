@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": "splavo",
+      "name": "Splavo",
+      "tagline": "Splash your way through colorful chaos.",
+      "icon": "/games/splavo/icon.png"
+    }
+  ]
+}

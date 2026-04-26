@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OKUMO - Mobile Game Studio</title>
+  <meta name="description" content="OKUMO is an independent mobile game studio creating unique experiences." />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+  <!-- ── Hero ─────────────────────────────────────── -->
+  <section class="home-hero">
+    <h1 class="logo-wordmark fade-up fade-up-1"><span>OKUMO</span></h1>
+    <p class="home-tagline fade-up fade-up-2">Independent Game Studio</p>
+  </section>
+
+  <!-- ── Games List ───────────────────────────────── -->
+  <section class="games-section container fade-up fade-up-3">
+    <h2>Our Games</h2>
+    <div class="games-grid" id="games-grid">
+      <!-- Cards injected by main.js -->
+      <noscript>
+        <a class="game-card" href="/games/splavo/about.html">
+          <span class="game-card-icon">💦</span>
+          <div class="game-card-name">Splavo</div>
+          <div class="game-card-tagline">Splash your way through colorful chaos.</div>
+        </a>
+      </noscript>
+    </div>
+  </section>
+
+  <!-- ── Footer ───────────────────────────────────── -->
+  <footer class="site-footer fade-up fade-up-4">
+    <p>© <span id="year"></span> OKUMO. All rights reserved.</p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>

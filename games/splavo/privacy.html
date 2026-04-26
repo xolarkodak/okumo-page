@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Splavo - Privacy Policy | OKUMO</title>
+  <meta name="description" content="Privacy Policy for Splavo by OKUMO." />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+  <!-- ── Game Header ──────────────────────────────── -->
+  <header class="game-header fade-up">
+
+    <a class="game-back" href="/">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M9 2L4 7L9 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      All Games
+    </a>
+
+    <div class="game-title-row">
+      <div class="game-title-icon" id="game-icon"></div>
+      <div class="game-title-text">
+        <h1 id="game-title">…</h1>
+        <p class="game-genre" id="game-genre">…</p>
+      </div>
+    </div>
+
+    <nav class="tab-nav" role="tablist">
+      <a class="tab-btn" data-tab="about"   href="about.html"   role="tab">About</a>
+      <a class="tab-btn" data-tab="privacy" href="privacy.html" role="tab">Privacy Policy</a>
+      <a class="tab-btn" data-tab="terms"   href="terms.html"   role="tab">Terms of Use</a>
+    </nav>
+
+  </header>
+
+  <!-- ── Privacy Content ──────────────────────────── -->
+  <main class="page-content fade-up fade-up-2">
+    <div class="text-content-wrapper">
+      <div id="txt-content">
+        <div class="content-loading">
+          <div class="spinner"></div>
+          Loading Privacy Policy…
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> OKUMO. All rights reserved. ·
+      <a href="privacy.html">Privacy Policy</a> ·
+      <a href="terms.html">Terms of Use</a>
+    </p>
+  </footer>
+
+  <script src="/js/game.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
