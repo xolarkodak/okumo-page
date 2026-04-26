@@ -2,26 +2,26 @@
 (async function () {
   const grid = document.getElementById('games-grid');
 
-  // Smart icon path resolver:
-  // "icon.png"              → /games/splavo/icon.png   (filename only)
-  // "games/splavo/icon.png" → /games/splavo/icon.png   (relative path, add leading /)
-  // "/games/splavo/icon.png"→ /games/splavo/icon.png   (already absolute, use as-is)
-  // "https://..."           → https://...              (external URL, use as-is)
+  // Smart icon path resolver.
+  // All paths returned are RELATIVE to index.html (site root).
+  // "icon.png"               → games/splavo/icon.png
+  // "games/splavo/icon.png"  → games/splavo/icon.png
+  // "/games/splavo/icon.png" → games/splavo/icon.png  (strip leading /)
+  // "https://..."            → https://...
   function resolveIcon(icon, gameId) {
     if (!icon) return null;
     if (icon.startsWith('http://') || icon.startsWith('https://')) return icon;
-    if (icon.startsWith('/')) return icon;           // already absolute
-    if (icon.includes('/')) return '/' + icon;       // relative path like "games/splavo/icon.png"
-    return `/games/${gameId}/${icon}`;               // bare filename like "icon.png"
+    if (icon.startsWith('/')) return icon.slice(1);    // /games/splavo/x → games/splavo/x
+    if (icon.includes('/'))   return icon;             // games/splavo/x  → games/splavo/x
+    return `games/${gameId}/${icon}`;                  // icon.png        → games/splavo/icon.png
   }
 
-  // SVG arrow for card (replaces ugly ↗)
   const arrowSVG = `<svg class="game-card-arrow" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M5 13L13 5M13 5H7M13 5V11" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>`;
 
   try {
-    const res  = await fetch('/games.json');
+    const res  = await fetch('games.json');   // relative — works on any sub-path
     const data = await res.json();
 
     if (!data.games || data.games.length === 0) {
@@ -32,7 +32,7 @@
     data.games.forEach((game, i) => {
       const delay   = Math.min(i + 1, 4);
       const card    = document.createElement('a');
-      card.href     = `/games/${game.id}/about.html`;
+      card.href      = `games/${game.id}/about.html`;  // relative
       card.className = `game-card fade-up fade-up-${delay}`;
 
       const iconSrc  = resolveIcon(game.icon, game.id);

@@ -3,16 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Splavo - About | OKUMO</title>
-  <meta name="description" content="Learn about Splavo by OKUMO." />
-  <link rel="stylesheet" href="/css/style.css" />
+  <title id="page-title">Splavo - OKUMO</title>
+  <link rel="stylesheet" href="../../css/style.css" />
 </head>
 <body>
 
-  <!-- ── Game Header ──────────────────────────────── -->
   <header class="game-header fade-up">
 
-    <a class="game-back" href="/">
+    <a class="game-back" href="../../">
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M9 2L4 7L9 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
@@ -20,11 +18,10 @@
     </a>
 
     <div class="game-title-row">
-      <!-- game-icon: game.js will inject <img> here -->
       <div class="game-title-icon" id="game-icon"></div>
       <div class="game-title-text">
-        <h1 id="game-title">…</h1>
-        <p class="game-genre" id="game-genre">…</p>
+        <h1 id="game-title">...</h1>
+        <p class="game-genre" id="game-genre">...</p>
       </div>
     </div>
 
@@ -36,20 +33,13 @@
 
   </header>
 
-  <!-- ── About Content ────────────────────────────── -->
   <main class="page-content fade-up fade-up-2">
-
-    <!-- Description - filled by game.js -->
-    <p class="about-description" id="game-description">…</p>
-
-    <!-- Meta chips - values filled by game.js -->
+    <p class="about-description" id="game-description">...</p>
     <div class="about-meta">
-      <div class="meta-chip">🎮 <strong>Genre</strong>&nbsp;<span id="game-genre-chip">…</span></div>
-      <div class="meta-chip">📱 <strong>Platform</strong>&nbsp;<span id="meta-platform">…</span></div>
-      <div class="meta-chip">🏢 <strong>Developer</strong>&nbsp;<span id="meta-developer">…</span></div>
+      <div class="meta-chip">🎮 <strong>Genre</strong>&nbsp;<span id="game-genre-chip">...</span></div>
+      <div class="meta-chip">📱 <strong>Platform</strong>&nbsp;<span id="meta-platform">...</span></div>
+      <div class="meta-chip">🏢 <strong>Developer</strong>&nbsp;<span id="meta-developer">...</span></div>
     </div>
-
-    <!-- Store links - shown/hidden + href filled by game.js -->
     <div class="store-links">
       <a class="store-btn" id="google-play-link" href="#" target="_blank" rel="noopener">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -58,7 +48,6 @@
         Google Play
       </a>
     </div>
-
   </main>
 
   <footer class="site-footer">
@@ -68,18 +57,7 @@
     </p>
   </footer>
 
-  <script src="/js/game.js"></script>
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-    // Sync genre chip with main genre element after game.js runs
-    document.addEventListener('DOMContentLoaded', () => {
-      const observer = new MutationObserver(() => {
-        const g = document.getElementById('game-genre');
-        const c = document.getElementById('game-genre-chip');
-        if (g && c && g.textContent !== '…') { c.textContent = g.textContent; observer.disconnect(); }
-      });
-      observer.observe(document.getElementById('game-genre') || document.body, { childList: true, subtree: true, characterData: true });
-    });
-  </script>
+  <script src="../../js/game.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
