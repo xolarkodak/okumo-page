@@ -1,4 +1,4 @@
-[LAST_UPDATED: January 1, 2025]
+[LAST_UPDATED: April 26, 2026]
 
 ## Terms of Use
 
@@ -11,19 +11,60 @@ By downloading or playing the Game, you agree to be bound by these Terms. If you
 We grant you a limited, non-exclusive, non-transferable, revocable license to download and play Splavo for your personal, non-commercial use.
 
 You may not:
+- copy, modify, distribute, sell, rent, lease, sublicense, or publicly display the Game or any protectable part of it;
+- reverse engineer, decompile, disassemble, or attempt to extract the source code of the Game, except where such restrictions are not allowed by applicable law;
+- use the Game for any commercial purpose without our written permission;
+- use cheats, bots, automation, modified clients, unauthorized tools, or exploits;
+- exploit bugs or glitches to gain an unfair advantage;
+- interfere with the operation, security, or integrity of the Game.
 
-- Copy, modify, or distribute the Game or any part of it
-- Reverse engineer, decompile, or disassemble the Game
-- Use the Game for any commercial purpose
-- Exploit bugs or glitches to gain an unfair advantage
+## Age and Children
+
+Splavo is designed for a general audience, including children and adults. Children should use the Game with the permission and supervision of a parent or legal guardian where required by applicable law.
+
+The Game does not require users to create an account to play. Some optional features, such as Google Play Games Services or certain advertising choices, may be limited or unavailable for children or users whose age is unknown.
+
+
+## Privacy
+
+Your use of the Game is also governed by our Privacy Policy, which explains how we collect, use, share, and protect information when you use the Game.
+
+If you do not agree with our Privacy Policy, please do not use the Game.
 
 ## Intellectual Property
 
-All content in Splavo — including graphics, audio, gameplay mechanics, and code — is the exclusive property of OKUMO and is protected by applicable intellectual property laws.
+Content in Splavo — including gameplay mechanics, and code — is the exclusive property of OKUMO and is protected by applicable intellectual property laws.
 
 ## In-App Advertising
 
-Splavo is free to play and is supported by in-app advertising provided by Google AdMob. By using the Game, you consent to the display of advertisements.
+Splavo is free to play and may be supported by in-app advertising provided by Google AdMob or other advertising service providers.
+
+At this time, the Game is intended to show non-personalized advertisements. We do not show personalized ads, interest-based ads, or remarketing ads to children, users under the applicable age of consent, or users whose age is unknown.
+
+Advertising and privacy choices are described in our Privacy Policy
+
+## In-App Purchases
+
+The Game may offer optional in-app purchases. All purchases are processed through Google Play Billing / Google Payments and may be subject to Google Play’s payment terms and refund policies.
+
+We do not collect or store users’ payment card numbers, bank account details, or payment security codes.
+
+Unless required by applicable law or Google Play policies, in-app purchases may be final and non-refundable.
+
+## Third-Party Services
+
+The Game may use third-party services, including Google AdMob, Google Play Billing, Google Payments, and Google Play Games Services. Your use of these services may also be subject to their own terms and policies.
+
+We are not responsible for third-party services, websites, advertisements, or content that are not controlled by us.
+
+## User Conduct
+
+You agree not to:
+- use the Game in a way that violates applicable laws or regulations;
+- cheat, exploit bugs, use unauthorized tools, bots, automation, modified clients, or hacks;
+- interfere with the operation, security, or integrity of the Game;
+- attempt to gain unauthorized access to any part of the Game or related services;
+- use the Game to harass, harm, or mislead others.
 
 ## Disclaimer of Warranties
 
@@ -33,9 +74,13 @@ The Game is provided "as is" without warranties of any kind, either express or i
 
 To the maximum extent permitted by law, OKUMO shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Game.
 
+Nothing in these Terms limits liability where it cannot be limited under applicable law.
+
 ## Termination
 
 We reserve the right to suspend or terminate your access to the Game at any time, for any reason, without notice.
+
+Upon termination, your license to use the Game will end.
 
 ## Changes to These Terms
 
@@ -43,10 +88,10 @@ We may update these Terms at any time. The updated version will be indicated by 
 
 ## Governing Law
 
-These Terms are governed by and construed in accordance with the laws applicable in the jurisdiction where OKUMO operates, without regard to conflict of law provisions.
+These Terms are governed by the laws of Ukraine, unless mandatory consumer protection laws in your country provide otherwise.
 
 ## Contact Us
 
 If you have any questions about these Terms, please contact us at:
 
-support@okumo.dev
+okumo.games@gmail.com

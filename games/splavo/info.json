@@ -1,12 +1,12 @@
 {
   "name": "Splavo",
-  "tagline": "Splash your way through colorful chaos.",
-  "description": "Splavo is a fast-paced casual mobile game where you guide a paint droplet through increasingly tricky levels. Swipe, splash, and mix colors to solve puzzles and paint the world your way.",
+  "tagline": "Control the swim ring, dodge obstacles, gain speed, and conquer the rivers!",
+  "description": "Splavo is a high-speed river adventure filled with danger and adrenaline. Take control of your swim ring and prepare for an extreme swimming challenge! Your goal is to navigate a winding water course from start to finish, balancing between speed and survival. Flow with the current, dodge obstacles, and don't let the mysterious underwater creature catch you! The difficulty is perfectly balanced: the game challenges you while remaining fun for beginners.",
   "icon": "icon.png",
-  "genre": "Casual · Puzzle",
+  "genre": "Arcade · Casual · Runner",
   "platform": ["Android"],
   "developer": "OKUMO",
   "contact_email": "support@okumo.dev",
-  "google_play_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=uk",
+  "google_play_url": "https://play.google.com",
   "accent_color": "#5b8dff"
 }
