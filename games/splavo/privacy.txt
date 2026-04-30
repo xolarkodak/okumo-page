@@ -1,11 +1,11 @@
-[LAST_UPDATED: April 27, 2026]
+[LAST_UPDATED: April 30, 2026]
 
 ## Privacy Policy
 
 This Privacy Notice for Kudelia Oleksandr (doing business as OKUMO) ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Download and use our mobile application (Splavo), or any other application of ours that links to this Privacy Notice
 - Engage with us in other related ways, including any marketing or events
-Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at okumo.games@gmail.com.
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at okumo.support@gmail.com.
 
 ## SUMMARY OF KEY POINTS
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.
@@ -24,7 +24,7 @@ How do we keep your information safe? We have adequate organizational and techni
 
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-How do you exercise your rights? The easiest way to exercise your rights is by visiting mailto:okumo.games@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+How do you exercise your rights? The easiest way to exercise your rights is by visiting mailto:okumo.support@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Do we collect information from children? Our game is designed for a general audience, including children and adults. We take additional steps to protect children’s privacy. We do not show personalized ads, interest-based ads, or remarketing ads to children, users under the applicable age of consent, or users whose age is unknown.
 
@@ -128,7 +128,7 @@ For children, users under the applicable age of consent in their region, and use
 
 We do not require children to sign in, create an account, or use Google Play Games Services to play the game. Optional third-party features that are not necessary to play the game may be limited or disabled for children and users whose age is unknown.
 
-Parents or guardians may contact us at okumo.games@gmail.com to request review, correction, or deletion of their child’s information. If we learn that we have collected personal information from a child in a way that is not permitted by applicable law, we will delete it or take other appropriate action as soon as reasonably possible.
+Parents or guardians may contact us at okumo.support@gmail.com to request review, correction, or deletion of their child’s information. If we learn that we have collected personal information from a child in a way that is not permitted by applicable law, we will delete it or take other appropriate action as soon as reasonably possible.
 
 ## 4. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 **In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
@@ -247,7 +247,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 For children and users whose age is unknown, we apply additional privacy-protective settings where required. These may include non-personalized advertising, child-directed or age-restricted ad treatment, limits on advertising identifiers where required, age-appropriate ad content settings, and limiting optional third-party features that are not necessary to play the game.
 
-If you have questions or comments about your privacy rights, you may email us at okumo.games@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at okumo.support@gmail.com.
 
 ## 12. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
@@ -368,9 +368,9 @@ Depending upon the state where you live, you may also have the following rights:
 - Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including the privacy law in Florida)
 
 ### How to Exercise Your Rights
-To exercise these rights, you can contact us by visiting mailto:okumo.games@gmail.com, by emailing us at okumo.games@gmail.com, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by visiting mailto:okumo.support@gmail.com, by emailing us at okumo.support@gmail.com, or by referring to the contact details at the bottom of this document.
 
-You may contact us at okumo.games@gmail.com to exercise applicable privacy rights. You may also manage certain advertising identifiers and privacy settings through your device settings. If we introduce personalized ads in the future, we will provide applicable privacy choices where required by law.
+You may contact us at okumo.support@gmail.com to exercise applicable privacy rights. You may also manage certain advertising identifiers and privacy settings through your device settings. If we introduce personalized ads in the future, we will provide applicable privacy choices where required by law.
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
 
@@ -380,7 +380,7 @@ Upon receiving your request, we will need to verify your identity to determine y
 If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
 
 ### Appeals
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at okumo.games@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at okumo.support@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
 ## 14. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 **In Short:** You may have additional rights based on the country you reside in.
@@ -412,10 +412,10 @@ Complaints (complete POPIA/PAIA form 5): PAIAComplaints@inforegulator.org.za & P
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
 ## 16. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at okumo.games@gmail.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at okumo.support@gmail.com or contact us by post at:
 
 Kudelia Oleksandr
 Ukraine
 
 ## 17. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: mailto:okumo.games@gmail.com.
+You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: mailto:okumo.support@gmail.com.
