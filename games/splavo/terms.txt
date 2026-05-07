@@ -1,4 +1,4 @@
-[LAST_UPDATED: April 30, 2026]
+[LAST_UPDATED: May 07, 2026]
 
 ## Terms of Use
 
@@ -18,11 +18,13 @@ You may not:
 - exploit bugs or glitches to gain an unfair advantage;
 - interfere with the operation, security, or integrity of the Game.
 
-## Age and Children
+## Age and Eligibility
 
-Splavo is designed for a general audience, including children and adults. Children should use the Game with the permission and supervision of a parent or legal guardian where required by applicable law.
+Splavo is intended for users who are 18 years of age or older. The Game is not directed to children or minors under the age of 18.
+By downloading, accessing, or playing the Game, you confirm that you are at least 18 years old, or that you are legally allowed to use the Game under the laws of your country.
+If you are under 18, you should not use the Game unless applicable law allows it and your parent or legal guardian has reviewed and agreed to these Terms.
 
-The Game does not require users to create an account to play. Some optional features, such as Google Play Games Services or certain advertising choices, may be limited or unavailable for children or users whose age is unknown.
+The Game does not require users to create an account to play. Some optional features, such as Google Play Games Services, in-app purchases, or advertising choices, may be limited or unavailable depending on your device, region, platform rules, or applicable law.
 
 
 ## Privacy
@@ -38,17 +40,14 @@ Content in Splavo — including gameplay mechanics, and code — is the exclusiv
 ## In-App Advertising
 
 Splavo is free to play and may be supported by in-app advertising provided by Google AdMob or other advertising service providers.
-
-At this time, the Game is intended to show non-personalized advertisements. We do not show personalized ads, interest-based ads, or remarketing ads to children, users under the applicable age of consent, or users whose age is unknown.
-
-Advertising and privacy choices are described in our Privacy Policy
+At this time, the Game is intended to show non-personalized advertisements. Non-personalized ads are not based on a user’s past behavior or interests, but they may still use contextual information, device information, approximate location such as country or region, ad interactions, diagnostics, and information needed for fraud prevention, reporting, frequency capping, and ad measurement.
+In the future, and only where permitted by law and user consent choices, the Game may show personalized ads. If we introduce personalized advertising, we may use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices.
+Advertising and privacy choices are described in our Privacy Policy.
 
 ## In-App Purchases
 
 The Game may offer optional in-app purchases. All purchases are processed through Google Play Billing / Google Payments and may be subject to Google Play’s payment terms and refund policies.
-
 We do not collect or store users’ payment card numbers, bank account details, or payment security codes.
-
 Unless required by applicable law or Google Play policies, in-app purchases may be final and non-refundable.
 
 ## Third-Party Services

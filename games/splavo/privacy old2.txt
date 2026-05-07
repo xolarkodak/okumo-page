@@ -1,4 +1,4 @@
-[LAST_UPDATED: May 07, 2026]
+[LAST_UPDATED: April 30, 2026]
 
 ## Privacy Policy
 
@@ -26,15 +26,15 @@ What are your rights? Depending on where you are located geographically, the app
 
 How do you exercise your rights? The easiest way to exercise your rights is by visiting mailto:okumo.support@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Do we collect information from children? Splavo is not directed to children or minors under the age of 18. We do not knowingly collect personal information from children under 13 or from minors under 18. If you believe that a child or minor has provided personal information through the game, please contact us at okumo.support@gmail.com and we will take reasonable steps to delete such information where required by law.
+Do we collect information from children? Splavo is not directed to children under the age of 13. The game is intended for users aged 13 and older. We do not knowingly collect personal information from children under 13. If you believe that a child under 13 has provided personal information through the game, please contact us at okumo.support@gmail.com and we will take reasonable steps to delete such information.
 
-Do we use an age screen? At this time, our app does not require users to provide their exact age or date of birth. In the future, we may introduce a neutral age screen or consent form to apply appropriate privacy settings, advertising settings, and feature availability. If an age screen is used, it may be used to confirm whether a user is 18 or older.
+Do we use an age screen? At this time, our app shows non-personalized ads to all users. In the future, we may introduce a neutral age screen to apply age-appropriate privacy settings, advertising settings, and feature availability for users aged 13-17 and users aged 18 or older.
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 
 ## TABLE OF CONTENTS
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
-3. AGE AUDIENCE AND MINORS’ PRIVACY
+3. AGE AUDIENCE AND CHILDREN’S PRIVACY
 4. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
 5. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
@@ -88,20 +88,20 @@ We do not use Google Play Games Services data for advertising purposes.
 
 ### Advertising and AdMob Data
 Our app uses Google AdMob / Google Mobile Ads SDK to display advertisements.
-At this time, our app is intended to show non personalized ads. Non personalized ads are not based on a user’s past behavior or interests. They may still use contextual information, such as the app being used, general location such as country or region, language, device type, and information needed for fraud prevention, security, frequency capping, reporting, and ad measurement.
+At this time, our app is intended to show non-personalized ads. Non-personalized ads are not based on a user’s past behavior or interests. They may still use contextual information, such as the app being used, general location such as country or region, language, device type, and information needed for fraud prevention, security, frequency capping, reporting, and ad measurement.
 Google AdMob may process data such as IP address, approximate location derived from IP address, device and app identifiers where permitted, app interactions, ad views, and diagnostic information.
-This data may be used for advertising, analytics, fraud prevention, security, reporting, and service improvement.
-At this time, we do not use personalized ads, interest based ads, or remarketing ads in Splavo.
-In the future, and only where permitted by law and the user’s consent choices, we may offer personalized ads. In regions where consent is required, we may use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices before personalized ads are shown.
+In the future, for users aged 18 or older only, and only where permitted by law and the user’s consent choices, we may offer personalized ads. In regions where consent is required, we may use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices before personalized ads are shown.
+Users aged 13-17 and users under the applicable age of consent in their country or region will not receive personalized ads, interest-based ads, or remarketing ads where restricted by law or platform policy.
 
 ### Google Analytics
 At this time, we do not use Google Analytics or Firebase Analytics. If we add analytics services in the future, we will update this Privacy Notice and, where required, the Google Play Data safety section.
 
 ### Age Screen and Age Group
-Splavo is intended for users aged 18 and older.
-At this time, our app does not require users to provide their exact age or date of birth.
-In the future, we may introduce a neutral age screen or consent form to apply appropriate privacy settings, advertising settings, and feature availability.
-Where possible, we will store only the selected age group or privacy setting and not the user’s exact date of birth. This information is not used to directly identify the user.
+At this time, our app may use privacy-protective advertising settings for all users, including non-personalized ads.
+
+In the future, we may introduce a neutral age screen that asks users to select their age group, such as “Under 13,” “13–17,” or “18+.” We would use this information only to apply age-appropriate privacy settings, advertising settings, and feature availability.
+
+Where possible, we store only the selected age group or privacy setting and not the user’s exact date of birth. This information is not used to directly identify the user.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 **In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We process the personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.
@@ -117,19 +117,22 @@ Where possible, we will store only the selected age group or privacy setting and
 - **To verify purchases.** We may process purchase-related information received from Google Play Billing to provide purchased digital content and prevent fraud.
 - **To provide optional game services.** We may process Google Play Games Services information to provide achievements, leaderboards, saved progress, and related gameplay features.
 
-Future personalized advertising. 
-At this time, Splavo is intended to show non personalized ads.
-In the future, and only where permitted by law and the user’s consent choices, we may process advertising related information to show personalized ads.
-If we introduce personalized advertising, we will update this Privacy Notice and, where required, use a consent management solution such as Google’s User Messaging Platform.
+Future personalized advertising for adults only. In the future, for users aged 18 or older only, and only where permitted by law and the user’s consent choices, we may process advertising-related information to show personalized ads. Users aged 13-17 and users under the applicable age of consent in their country or region will not receive personalized ads, interest-based ads, or remarketing ads where restricted by law or platform policy.
 
-## 3. AGE AUDIENCE AND MINORS' PRIVACY
-Splavo is intended for users aged 18 and older.
-Splavo is not directed to children or minors under the age of 18.
-We do not knowingly collect personal information from children under 13 or from minors under 18.
-If we learn that we have collected personal information from a child or minor in a way that is not permitted by applicable law, we will delete it or take other appropriate action as soon as reasonably possible.
-If you are a parent or guardian and believe that a child or minor has provided personal information through Splavo, please contact us at okumo.support@gmail.com.
+## 3. AGE AUDIENCE AND CHILDREN’S PRIVACY
+Splavo is not directed to children under the age of 13.
+
+The game is intended for users aged 13 and older.
+
+We do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13 in a way that is not permitted by applicable law, we will delete it or take other appropriate action as soon as reasonably possible.
+
+If you are a parent or guardian and believe that a child under 13 has provided personal information through Splavo, please contact us at okumo.support@gmail.com.
+
 Splavo does not require users to create an account to play the game.
+
 Google Play Games Services, if available, are optional and are not required to play the game.
+
+Some users aged 13-17 may be considered under the applicable age of consent in their country or region. Where required, we may apply age-appropriate privacy settings, advertising settings, and feature availability for these users.
 
 ## 4. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 **In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
@@ -201,10 +204,10 @@ To the extent these online tracking technologies are deemed to be a "sale"/"shar
 
 ### Google AdMob and Advertising
 Our app uses Google AdMob / Google Mobile Ads SDK to display advertisements.
-At this time, our app is intended to show non personalized ads.
+At this time, our app is intended to show non-personalized ads.
 Google AdMob may process data such as IP address, approximate location derived from IP address, advertising or app identifiers where permitted, app interactions, ad views, and diagnostic information for advertising, analytics, fraud prevention, security, and service improvement.
-At this time, we do not use personalized ads, interest based ads, or remarketing ads in Splavo.
-In the future, and only where permitted by law and user consent choices, ads may be personalized.
+For users aged 18 or older, and only where permitted by law and user consent choices, ads may be personalized in the future.
+Users aged 13-17 and users under the applicable age of consent in their country or region will not receive personalized ads, interest-based ads, or remarketing ads where restricted by law or platform policy.
 In regions where consent is required, we may use a consent management solution such as Google’s User Messaging Platform to request and manage privacy choices.
 
 ## 8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
@@ -248,7 +251,7 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-Splavo is intended for users aged 18 and older. If we introduce personalized advertising or additional privacy choices in the future, users may be able to manage certain privacy choices through an in app consent form, device settings, or by contacting us at okumo.support@gmail.com.
+For users aged 13-17 and users under the applicable age of consent in their country or region, we may apply additional privacy-protective settings where required. These may include non-personalized advertising, limits on advertising identifiers where required, age-appropriate ad content settings, and limiting optional third-party features that are not necessary to play the game.
 
 If you have questions or comments about your privacy rights, you may email us at okumo.support@gmail.com.
 
@@ -269,7 +272,7 @@ A. Identifiers
 
 B. Personal information as defined in the California Customer Records statute
 - Examples: Name, contact information, education, employment, employment history, and financial information
-- Collected: YES, only if provided by the user when contacting support or as part of purchase-related records processed through Google Play.
+- Collected: YES
 
 C. Protected classification characteristics under state or federal law
 - Examples: Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data
@@ -289,7 +292,7 @@ F. Internet or other similar network activity
 
 G. Geolocation data
 - Examples: Device location
-- Collected: YES, approximate location only, such as country or region derived from IP address. We do not request access to precise GPS location.
+- Collected: YES
 
 H. Audio, electronic, sensory, or similar information
 - Examples: Images and audio, video or call recordings created in connection with our business activities
@@ -314,7 +317,12 @@ We may also collect other personal information outside of these categories throu
 - Receiving help through our customer support channels;
 - Participation in customer surveys or contests; and
 - Facilitation in the delivery of our Services and to respond to your inquiries.
-We do not require users to create an account. We retain personal information only for as long as necessary to provide the Services, process purchases, prevent fraud, comply with legal obligations, resolve disputes, provide support, and maintain app security. Locally stored gameplay progress may remain on the user’s device until the user deletes the app or clears app data. Purchase-related information may be retained as long as necessary to provide purchased content, handle refunds, prevent fraud, comply with accounting or legal obligations, and provide support.
+We will use and retain the collected personal information as needed to provide the Services or for:
+- Category A - As long as the user has an account with us
+- Category B - As long as the user has an account with us
+- Category D - As long as the user has an account with us
+- Category F - As long as the user has an account with us
+- Category G - As long as the user has an account with us
 
 ### Sources of Personal Information
 Learn more about the sources of personal information we collect in "WHAT INFORMATION DO WE COLLECT?"
@@ -323,11 +331,10 @@ Learn more about the sources of personal information we collect in "WHAT INFORMA
 Learn more about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
 
 We collect and share your personal information through:
-Google AdMob / Google Mobile Ads SDK
-Advertising or app identifiers where permitted
-Ad views, ad interactions, and click redirects
-Device and diagnostic data
-Purchase verification data through Google Play Billing
+Targeting cookies/Marketing cookies
+Social media cookies
+Beacons/Pixels/Tags
+Click redirects: Google AdMob Advertising Services.
 
 **Will your information be shared with anyone else?**
 
@@ -344,8 +351,8 @@ We have disclosed the following categories of personal information to third part
 The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
 
 We do not sell personal information for money.
-At this time, our app is intended to show non-personalized ads. We do not currently use personal information for personalized advertising, interest based advertising, or remarketing in Splavo.
-If we introduce personalized advertising in the future, certain disclosures under US state privacy laws may describe this as “sharing” personal information for targeted advertising. In that case, we will provide applicable privacy choices where required by law.
+At this time, our app is intended to show non-personalized ads. We do not use personal information for interest-based advertising or remarketing for users aged 13-17 or users under the applicable age of consent in their country or region where restricted by law or platform policy.
+If we introduce personalized advertising for adult users in the future, certain disclosures under US state privacy laws may describe this as “sharing” personal information for targeted advertising. In that case, we will provide applicable privacy choices where required by law.
 
 ### Your Rights
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
