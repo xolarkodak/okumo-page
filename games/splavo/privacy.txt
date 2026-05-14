@@ -1,4 +1,4 @@
-[LAST_UPDATED: May 07, 2026]
+[LAST_UPDATED: May 14, 2026]
 
 ## Privacy Policy
 
@@ -88,11 +88,13 @@ We do not use Google Play Games Services data for advertising purposes.
 
 ### Advertising and AdMob Data
 Our app uses Google AdMob / Google Mobile Ads SDK to display advertisements.
-At this time, our app is intended to show non personalized ads. Non personalized ads are not based on a user’s past behavior or interests. They may still use contextual information, such as the app being used, general location such as country or region, language, device type, and information needed for fraud prevention, security, frequency capping, reporting, and ad measurement.
-Google AdMob may process data such as IP address, approximate location derived from IP address, device and app identifiers where permitted, app interactions, ad views, and diagnostic information.
-This data may be used for advertising, analytics, fraud prevention, security, reporting, and service improvement.
-At this time, we do not use personalized ads, interest based ads, or remarketing ads in Splavo.
-In the future, and only where permitted by law and the user’s consent choices, we may offer personalized ads. In regions where consent is required, we may use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices before personalized ads are shown.
+Ads in Splavo may include personalized ads and non-personalized ads, depending on the user’s region, consent choices, device settings, applicable law, and platform requirements.
+Personalized ads may be based on information such as app interactions, advertising identifiers, approximate location such as country or region, device information, ad views, ad interactions, and other advertising-related data. This may be used to show ads that may be more relevant to the user.
+Non-personalized ads are not based on a user’s past behavior or interests. They may still use contextual information, such as the app being used, general location such as country or region, language, device type, and information needed for fraud prevention, security, frequency capping, reporting, and ad measurement.
+Google AdMob may process data such as IP address, approximate location derived from IP address, device and app identifiers where permitted, app interactions, ad views, ad interactions, and diagnostic information.
+This data may be used for advertising, ad personalization where permitted, analytics, fraud prevention, security, reporting, frequency capping, and service improvement.
+In regions where consent is required, such as the European Economic Area, the United Kingdom, and Switzerland, we use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices before personalized ads are shown.
+Users can manage certain advertising and privacy choices through the consent form, device settings, or other privacy controls where available.
 
 ### Google Analytics
 At this time, we do not use Google Analytics or Firebase Analytics. If we add analytics services in the future, we will update this Privacy Notice and, where required, the Google Play Data safety section.
@@ -110,17 +112,17 @@ Where possible, we will store only the selected age group or privacy setting and
 - **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
 - **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 - **To fulfill and manage your orders.** We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
-- **To display non-personalized advertisements**. At this time, we may process limited device, app interaction, and advertising-related information to show non-personalized ads, measure ad performance, prevent fraud, and comply with legal requirements.
+- **To display advertisements.** We may process limited device, app interaction, advertising-related information, and identifiers where permitted to show ads, including personalized ads where allowed and based on the user’s consent choices, and non-personalized ads where personalization is not available or not permitted.
 - **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
 - **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
 - **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 - **To verify purchases.** We may process purchase-related information received from Google Play Billing to provide purchased digital content and prevent fraud.
 - **To provide optional game services.** We may process Google Play Games Services information to provide achievements, leaderboards, saved progress, and related gameplay features.
 
-Future personalized advertising. 
-At this time, Splavo is intended to show non personalized ads.
-In the future, and only where permitted by law and the user’s consent choices, we may process advertising related information to show personalized ads.
-If we introduce personalized advertising, we will update this Privacy Notice and, where required, use a consent management solution such as Google’s User Messaging Platform.
+Personalized advertising.
+Splavo may show personalized ads and non-personalized ads.
+In regions where consent is required, personalized ads are shown only where permitted by law and based on the user’s consent choices. We use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices where required.
+If the user does not consent to personalized ads, or where personalized ads are not permitted, the game may show non-personalized or limited ads instead.
 
 ## 3. AGE AUDIENCE AND MINORS' PRIVACY
 Splavo is intended for users aged 18 and older.
@@ -195,17 +197,18 @@ The Services may link to third-party websites, online services, or mobile applic
 
 We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
 
-We may use similar technologies through third-party SDKs, such as Google AdMob, to display ads, measure ad performance, prevent fraud, fix bugs, save preferences, and maintain security. At this time, our app is intended to show non-personalized ads.
+We may use similar technologies through third-party SDKs, such as Google AdMob, to display ads, measure ad performance, prevent fraud, fix bugs, save preferences, and maintain security. Our app may show personalized ads and non-personalized ads, depending on the user’s region, consent choices, device settings, applicable law, and platform requirements.
 
 To the extent these online tracking technologies are deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section "DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?"
 
 ### Google AdMob and Advertising
 Our app uses Google AdMob / Google Mobile Ads SDK to display advertisements.
-At this time, our app is intended to show non personalized ads.
-Google AdMob may process data such as IP address, approximate location derived from IP address, advertising or app identifiers where permitted, app interactions, ad views, and diagnostic information for advertising, analytics, fraud prevention, security, and service improvement.
-At this time, we do not use personalized ads, interest based ads, or remarketing ads in Splavo.
-In the future, and only where permitted by law and user consent choices, ads may be personalized.
-In regions where consent is required, we may use a consent management solution such as Google’s User Messaging Platform to request and manage privacy choices.
+Splavo may show personalized ads and non-personalized ads.
+Personalized ads may use information such as advertising identifiers, app interactions, ad views, ad interactions, approximate location such as country or region, device information, and other advertising-related data to show ads that may be more relevant to the user.
+Non-personalized ads are not based on a user’s past behavior or interests, but they may still use contextual information, approximate location such as country or region, device type, ad interactions, diagnostics, and information needed for fraud prevention, reporting, frequency capping, and ad measurement.
+Google AdMob may process data such as IP address, approximate location derived from IP address, advertising or app identifiers where permitted, app interactions, ad views, ad interactions, and diagnostic information for advertising, ad personalization where permitted, analytics, fraud prevention, security, and service improvement.
+In regions where consent is required, such as the European Economic Area, the United Kingdom, and Switzerland, we use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices.
+Users may be able to change or withdraw their advertising consent choices through the privacy choices form in the game settings, where available.
 
 ## 8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 **In Short:** We may transfer, store, and process your information in countries other than your own.
@@ -248,8 +251,8 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-Splavo is intended for users aged 18 and older. If we introduce personalized advertising or additional privacy choices in the future, users may be able to manage certain privacy choices through an in app consent form, device settings, or by contacting us at okumo.support@gmail.com.
-
+Splavo is intended for users aged 18 and older. Users may be able to manage certain advertising and privacy choices through an in-app consent form, device settings, or by contacting us at okumo.support@gmail.com.
+In regions where consent is required, users may be able to change or withdraw their advertising consent choices through the privacy choices form in the game settings, where available.
 If you have questions or comments about your privacy rights, you may email us at okumo.support@gmail.com.
 
 ## 12. CONTROLS FOR DO-NOT-TRACK FEATURES
@@ -343,9 +346,10 @@ We have disclosed the following categories of personal information to third part
 - Category G. Geolocation data
 The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
 
+Our app may show personalized ads and non-personalized ads.
+Personalized advertising may be considered “sharing” personal information for targeted advertising under some US state privacy laws.
 We do not sell personal information for money.
-At this time, our app is intended to show non-personalized ads. We do not currently use personal information for personalized advertising, interest based advertising, or remarketing in Splavo.
-If we introduce personalized advertising in the future, certain disclosures under US state privacy laws may describe this as “sharing” personal information for targeted advertising. In that case, we will provide applicable privacy choices where required by law.
+Where required by applicable law, users may have the right to opt out of the processing of personal information for targeted advertising. Users can exercise applicable privacy rights by contacting us at okumo.support@gmail.com or by using available device settings, platform controls, or in-app privacy choices where available.
 
 ### Your Rights
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:

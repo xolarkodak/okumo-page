@@ -1,4 +1,4 @@
-[LAST_UPDATED: May 07, 2026]
+[LAST_UPDATED: May 14, 2026]
 
 ## Terms of Use
 
@@ -30,7 +30,7 @@ The Game does not require users to create an account to play. Some optional feat
 ## Privacy
 
 Your use of the Game is also governed by our Privacy Policy, which explains how we collect, use, share, and protect information when you use the Game.
-
+Our Privacy Policy also explains how advertising consent choices are requested, managed, and changed where required by law.
 If you do not agree with our Privacy Policy, please do not use the Game.
 
 ## Intellectual Property
@@ -40,8 +40,11 @@ Content in Splavo — including gameplay mechanics, and code — is the exclusiv
 ## In-App Advertising
 
 Splavo is free to play and may be supported by in-app advertising provided by Google AdMob or other advertising service providers.
-At this time, the Game is intended to show non-personalized advertisements. Non-personalized ads are not based on a user’s past behavior or interests, but they may still use contextual information, device information, approximate location such as country or region, ad interactions, diagnostics, and information needed for fraud prevention, reporting, frequency capping, and ad measurement.
-In the future, and only where permitted by law and user consent choices, the Game may show personalized ads. If we introduce personalized advertising, we may use Google’s User Messaging Platform or another consent management solution to request and manage privacy choices.
+The Game may show personalized ads and non-personalized ads, depending on your region, consent choices, device settings, applicable law, and platform requirements.
+Personalized ads may use information such as advertising identifiers, app interactions, ad views, ad interactions, approximate location such as country or region, device information, and other advertising-related data to show ads that may be more relevant to you.
+Non-personalized ads are not based on your past behavior or interests, but they may still use contextual information, device information, approximate location such as country or region, ad interactions, diagnostics, and information needed for fraud prevention, reporting, frequency capping, and ad measurement.
+In regions where consent is required, such as the European Economic Area, the United Kingdom, and Switzerland, we use Google’s User Messaging Platform or another consent management solution to request and manage advertising and privacy choices.
+You may be able to change or withdraw your advertising consent choices through the privacy choices form in the Game settings, where available.
 Advertising and privacy choices are described in our Privacy Policy.
 
 ## In-App Purchases
@@ -52,7 +55,7 @@ Unless required by applicable law or Google Play policies, in-app purchases may 
 
 ## Third-Party Services
 
-The Game may use third-party services, including Google AdMob, Google Play Billing, Google Payments, and Google Play Games Services. Your use of these services may also be subject to their own terms and policies.
+The Game may use third-party services, including Google AdMob, Google Mobile Ads SDK, Google User Messaging Platform, Google Play Billing, Google Payments, and Google Play Games Services. Your use of these services may also be subject to their own terms and policies.
 
 We are not responsible for third-party services, websites, advertisements, or content that are not controlled by us.
 
